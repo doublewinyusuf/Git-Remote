@@ -8,5 +8,6 @@
 </head>
 <body>
     <h2>Git Remote with Pull</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, vero.</p>
 </body>
 </html>
